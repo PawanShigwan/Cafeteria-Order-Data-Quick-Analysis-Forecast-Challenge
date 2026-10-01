@@ -1,0 +1,9 @@
+Model,MAE,RMSE,MAPE (%),R2
+Ridge Regression (Trend + DOW Seasonality),1620.68,2519.26,45.27,0.5578
+Random Forest Regressor,1728.34,2678.4,47.01,0.5001
+Day-of-Week Median Profile,1744.07,2857.12,47.75,0.4312
+Recent 4-Week DOW Seasonal Mean,1768.29,2977.03,50.24,0.3825
+Seasonal Naive (Lag-7),1950.14,3088.43,54.56,0.3354
+Gradient Boosting Regressor,2024.94,2938.28,56.07,0.3984
+Autoregressive Multi-Seasonal Model,1686.53,2669.93,58.52,0.5033
+7-Day Moving Average,3618.35,4240.89,364.54,-0.2532

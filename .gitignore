@@ -1,0 +1,39 @@
+# Large raw database dumps (>100MB / raw SQL dumps)
+*.sql
+*.sql.gz
+*.bak
+
+# Raw user dump
+users.csv
+
+# Temporary and exploratory scratch scripts
+fast_scan_tables.py
+scan_tables.py
+get_branches.py
+inspect_orders_end.py
+inspect_orders_sample.py
+inspect_schemas.py
+inspect_users.py
+test_parse_orders.py
+test_stream.py
+verify_parser.py
+extract_users.py
+
+# Power BI temporary build directory
+_pbix_tmp/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+env/
+venv/
+.venv/
+
+# Operating System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

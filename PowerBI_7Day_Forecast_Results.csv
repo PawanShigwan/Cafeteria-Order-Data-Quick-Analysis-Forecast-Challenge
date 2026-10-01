@@ -1,0 +1,8 @@
+date,branch_id,branch_name,day_name,day_of_week,is_weekend,t,forecast_orders,forecast_orders_lower_95,forecast_orders_upper_95,estimated_aov,estimated_revenue
+2025-04-02,1,Nirlon Knowledge Park,Wednesday,2,0,366,9645,6591,12699,69.97,674803.73
+2025-04-03,1,Nirlon Knowledge Park,Thursday,3,0,367,9332,6278,12387,69.97,652944.65
+2025-04-04,1,Nirlon Knowledge Park,Friday,4,0,368,7546,4492,10600,69.97,527954.74
+2025-04-05,1,Nirlon Knowledge Park,Saturday,5,1,369,1143,0,4197,69.97,79960.14
+2025-04-06,1,Nirlon Knowledge Park,Sunday,6,1,370,506,0,3560,69.97,35397.47
+2025-04-07,1,Nirlon Knowledge Park,Monday,0,0,371,7642,4588,10696,69.97,534660.98
+2025-04-08,1,Nirlon Knowledge Park,Tuesday,1,0,372,9147,6093,12202,69.97,639996.38

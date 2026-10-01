@@ -1,0 +1,3 @@
+@echo off
+echo Starting Foodii Cafeteria Analytics Dashboard...
+start "" "%~dp0powerbi_dashboard.html"
